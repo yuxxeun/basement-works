@@ -21,10 +21,10 @@ export default function Home() {
         className="relative flex flex-col gap-4 items-center justify-center"
       >
         <div className="mt-">
-        <div className="text-3xl font-extrabold md:text-7xl font-bold dark:text-white text-center">
+        <div className="text-3xl font-extrabold md:text-7xl font-bold dark:text-white px-4 lg:text-center text-left">
           Basement Works 👋
         </div>
-        <div className={`${geistMono.className} italic mt-5 font-normal lg:max-w-7xl text-slate-500 max-w-4xl lg:text-lg text-sm lg:px-0 px-4 text-center`}>
+        <div className={`${geistMono.className} italic mt-5 font-normal lg:max-w-7xl text-slate-500 max-w-2xl lg:text-lg text-sm lg:px-0 px-4 lg:text-center text-left`}>
           We are a team of specialists who work across different industries of different sizes. 
           <br />
           We are intentional about building with surgical precisionand creating extraordinary experiences. 
