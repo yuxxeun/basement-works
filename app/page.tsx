@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { AuroraBackground } from "@/components/ui/aurora";
 import { GeistMono } from "geist/font/mono";
-import { GlobeDemo } from "@/components/ui/globeDemo";
 
 const geistMono = GeistMono;
 
@@ -32,12 +31,8 @@ export default function Home() {
           <br />
           We go the extra mile, and then walk a couple more, just for fun.
           <br /><br />
-            You want more? Well, it's coming soon...
+            You want more? Well, it&apos;s coming soon...
         </div>
-
-            <div className="text-center">
-              {/* <GlobeDemo /> */}
-            </div>
         </div>
       </motion.div>
     </AuroraBackground>
