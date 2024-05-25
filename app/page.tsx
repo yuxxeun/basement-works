@@ -27,7 +27,7 @@ export default function Home() {
         <div className={`${geistMono.className} italic mt-5 font-normal lg:max-w-7xl text-slate-500 max-w-2xl lg:text-lg text-sm lg:px-0 px-4 lg:text-center text-left`}>
           We are a team of specialists who work across different industries of different sizes. 
           <br />
-          We are intentional about building with surgical precisionand creating extraordinary experiences. 
+          We are intentional about building with surgical precision and creating extraordinary experiences. 
           <br />
           We go the extra mile, and then walk a couple more, just for fun.
           <br /><br />
